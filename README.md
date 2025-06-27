@@ -8,6 +8,6 @@ Step3: Choose your images just upload, you need to write some commit messages su
 Step4: Click **Commit changes** button. 
 
 ### Habitica toolbox
-**habitica_memory**  
+**1. habitica_memory**  
 导出 Habitica 中未完成和已完成的待办事项（含 子项checklist）  
 输出为 Markdown 文件
